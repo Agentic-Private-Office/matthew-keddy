@@ -2,7 +2,7 @@
 
 > The Agentic Private Office of Matthew Keddy. AI-native brands in capital markets, consumer and retail AI shopping, and pharma, generating 100M+ in AI agent and human traffic a month.
 
-Operator: Agentic KG Holdings · Principal: Matthew Keddy · Surface: https://agent-kg.ai · Surface version 0.12.11 · as of 2026-11-18
+Operator: Agentic KG Holdings · Principal: Matthew Keddy · Surface: https://agent-kg.ai · Surface version 0.12.12 · as of 2026-11-18
 
 ## What it is
 

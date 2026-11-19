@@ -5,7 +5,7 @@
   "description": "The Agentic Private Office of Matthew Keddy. AI-native brands in capital markets, consumer and retail AI shopping, and pharma, generating 100M+ in AI agent and human traffic a month.",
   "longDescription": "The Agentic Private Office of Matthew Keddy holds a portfolio of AI-native brands in three markets: capital markets, consumer and retail AI shopping, and pharma. Together they generate 100M+ in AI agent and human traffic a month, across global markets in the Americas, the EU and UK, and Asia.\nIRL agent-ready data products: the record of real things, built for AI agents that act in real life. Not training data for the labs. Not synthetic data from a model. Real products, real issuers and real medicines, each with its source.\nThe record is served live on Model Context Protocol (MCP), in real time on Microsoft Azure across 20+ hyperscale cloud regions, with Amazon Web Services held as standby.\nProducts: AI-native Optimize, for agents already running, paid as they go on x402 machine payments. AI-native Design & Build, for enterprises building their own agents, by arrangement. RCO (Record of Cleared Orders), for compliance teams: a signed receipt for every read.",
   "url": "https://agent-kg.ai/",
-  "version": "0.12.11",
+  "version": "0.12.12",
   "documentationUrl": "https://agent-kg.ai/llms.txt",
   "iconUrl": "https://agent-kg.ai/icon-512.png",
   "provider": {
