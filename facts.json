@@ -212,7 +212,7 @@
     "https://agent-kg.ai/x402",
     "https://agent-kg.ai/x402/jwks.json"
   ],
-  "surface_version": "0.12.9",
+  "surface_version": "0.12.10",
   "as_of": "2026-11-18",
   "entity": {
     "name": "Agentic KG Holdings",
