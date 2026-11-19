@@ -10,7 +10,7 @@ An agentic private office combines the people of the traditional office with the
 
 ## About Matthew Keddy
 
-Matthew Keddy, Vancouver. Chief Executive Officer of [wefetch](https://wefetch.ai/). Chief Executive Officer of Allooloo Technologies Corp. Building AI-agent infrastructure for capital markets and consumer goods since 2019; building for brands on the web since the mid-1990s. Co-author, NeurIPS 2025, on Schrödinger bridges, with Stephen Zhang. Coined Structured Rule Implosion, the KYP (Know Your Product) model, and the Agentic Private Office.
+Matthew Keddy, Vancouver. Chief Executive Officer of [WeFetch AI Corp.](https://wefetch.ai/) Chief Executive Officer of Allooloo Technologies Corp. Building AI-agent infrastructure for capital markets and consumer goods since 2019; building for brands on the web since the mid-1990s. Co-author, NeurIPS 2025, on Schrödinger bridges, with Stephen Zhang. Coined Structured Rule Implosion, the KYP (Know Your Product) model, and the Agentic Private Office.
 
 ## Companies
 

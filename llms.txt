@@ -1,0 +1,74 @@
+# Agentic Private Office — Matthew Keddy
+
+> The Agentic Private Office of Matthew Keddy. AI-native brands in capital markets, consumer and retail AI shopping, and pharma, generating 100M+ in AI agent and human traffic a month.
+
+Operator: Agentic KG Holdings · Principal: Matthew Keddy · Surface: https://agent-kg.ai · Surface version 0.12.9 · as of 2026-11-18
+
+## What it is
+
+The Agentic Private Office of Matthew Keddy holds a portfolio of AI-native brands in three markets: capital markets, consumer and retail AI shopping, and pharma. Together they generate 100M+ in AI agent and human traffic a month, across global markets in the Americas, the EU and UK, and Asia.
+
+IRL agent-ready data products: the record of real things, built for AI agents that act in real life. Not training data for the labs. Not synthetic data from a model. Real products, real issuers and real medicines, each with its source.
+
+The record is served live on Model Context Protocol (MCP), in real time on Microsoft Azure across 20+ hyperscale cloud regions, with Amazon Web Services held as standby.
+
+Products: AI-native Optimize, for agents already running, paid as they go on x402 machine payments. AI-native Design & Build, for enterprises building their own agents, by arrangement. RCO (Record of Cleared Orders), for compliance teams: a signed receipt for every read.
+
+The private office of Matthew Keddy, published as a crawlable surface, an A2A party, an MCP door and an x402 counterparty. Sections 1–13 on the page.
+
+## Holdings
+
+- [WeFetch AI Corp.](https://wefetch.ai/) — consumer and retail AI shopping — keys held, through the office
+- [Allooloo Technologies Corp.](https://allooloo.io) — capital markets — keys held, through the office
+- [Dosidal AI Corp.](https://dosidal.ai/) — pharma — keys held, through the office
+- [Family Office Knowledge Graph](https://familyofficeknowledgegraph.ai) — familyofficeknowledgegraph.ai
+
+## Hyperscaler tenancies
+
+- Microsoft Azure — two tenants.
+- Google Cloud — two tenants.
+- Amazon Web Services — two accounts, custodial.
+- Cloudflare — four accounts, custodial, all zones.
+- Ten hyperscaler tenancies in the portfolio, under agentic management.
+
+## The office's numbers
+
+- AI agent and human traffic · a month: 100M+
+- AI agent engagement: 4.7M a day · 196,000 an hour · 3,260 a minute
+- Traffic by region · a month: Europe 51M · Americas 27M · Asia-Pacific 15M · Rest of World 4M
+- Countries on the record: 70+
+- Agentic datapoints: 10BN
+- Records under management: 100M
+- Hyperscale cloud regions: 20+
+- Frontier AI labs: 7
+
+## Doors
+
+- Page: https://agent-kg.ai/ (Markdown twin on Accept: text/markdown)
+- Human contact: https://agent-kg.ai/#contact — the form is the only door on the page
+- Paid door (x402 v2, $0.01 USDC, Base mainnet): GET https://agent-kg.ai/api → 402 offer; with PAYMENT-SIGNATURE → { receipt, statement, data }; human door https://agent-kg.ai/x402
+- MCP door (streamable-http): https://agent-kg.ai/mcp — one tool, office_statement; card https://agent-kg.ai/.well-known/mcp.json
+- OAuth: https://agent-kg.ai/.well-known/oauth-authorization-server (client_credentials to registered agents); licensed statement https://agent-kg.ai/licensed/statement; protected-resource metadata https://agent-kg.ai/.well-known/oauth-protected-resource; registration instructions https://agent-kg.ai/auth.md
+- Holding attestation: GET https://agent-kg.ai/attest/{holding-host} — a line signed with the office key that the estate is the office's
+
+## Machine kit
+
+- https://agent-kg.ai/facts.json — office facts of record
+- https://agent-kg.ai/.well-known/agent-card.json — A2A Agent Card (skills office_statement, holding_attestation)
+- https://agent-kg.ai/.well-known/ai-catalog.json — ARD catalog (also /.well-known/ard.json); https://agent-kg.ai/ai-catalog.json — resource catalogue
+- https://agent-kg.ai/.well-known/skills.json — skills with input/output shapes; https://agent-kg.ai/.well-known/agent-skills/index.json — skills index with digests
+- https://agent-kg.ai/.well-known/jwks.json — office keyring, kid mk-office-2026-09; https://agent-kg.ai/x402/jwks.json — x402 receipt key, kid mk-office-x402-2026-09
+- https://agent-kg.ai/.well-known/api-catalog — RFC 9727 linkset; https://agent-kg.ai/openapi.json — OpenAPI 3.1; https://agent-kg.ai/health.json — status
+- https://agent-kg.ai/.well-known/security.txt — security contact; https://agent-kg.ai/.well-known/http-message-signatures-directory — Web Bot Auth key directory
+- https://agent-kg.ai/robots.txt (open, Content-Signal permissive) · https://agent-kg.ai/sitemap.xml
+
+## Rulings
+
+- 2026-09-13 — Multi-family office model, agentic in scope; one principal on this page.
+- 2026-09-13 — The office mailbox is not published; the form is the door.
+- 2026-09-13 — The office is the owner of record for the principal's cloud tenancies; identifiers stay in the private register.
+- 2026-09-13 — The office holds no cryptocurrency. A key is a signature, not a wallet.
+
+## Twins
+
+- https://agent-kg.com/, https://agent-kg.io/ and https://agent-kg.org/ forward (301) to https://agent-kg.ai/

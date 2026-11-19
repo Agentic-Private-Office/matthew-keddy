@@ -1,0 +1,323 @@
+{
+  "office": "Agentic Private Office — Matthew Keddy",
+  "principal": "Matthew Keddy",
+  "canonical": "https://agent-kg.ai/",
+  "twins": [
+    "https://agent-kg.com/",
+    "https://agent-kg.io/",
+    "https://agent-kg.org/"
+  ],
+  "holdings": [
+    {
+      "name": "WeFetch AI Corp.",
+      "url": "https://wefetch.ai/",
+      "line": "consumer and retail AI shopping — keys held, through the office"
+    },
+    {
+      "name": "Allooloo Technologies Corp.",
+      "url": "https://allooloo.io",
+      "line": "capital markets — keys held, through the office"
+    },
+    {
+      "name": "Dosidal AI Corp.",
+      "url": "https://dosidal.ai/",
+      "line": "pharma — keys held, through the office"
+    },
+    {
+      "name": "Family Office Knowledge Graph",
+      "url": "https://familyofficeknowledgegraph.ai",
+      "line": "familyofficeknowledgegraph.ai",
+      "kind": "product",
+      "door": "https://mcp.fo-kg.ai/mcp",
+      "agent_card": "https://agent.fo-kg.ai/.well-known/agent-card.json",
+      "facts": "https://familyofficeknowledgegraph.ai/facts.json",
+      "door_long": "https://mcp.familyofficeknowledgegraph.ai/mcp",
+      "agent_card_long": "https://agent.familyofficeknowledgegraph.ai/.well-known/agent-card.json"
+    }
+  ],
+  "tenancies": [
+    {
+      "provider": "Microsoft Azure",
+      "line": "two tenants.",
+      "count": 2
+    },
+    {
+      "provider": "Google Cloud",
+      "line": "two tenants.",
+      "count": 2
+    },
+    {
+      "provider": "Amazon Web Services",
+      "line": "two accounts, custodial.",
+      "count": 2,
+      "custodial": true
+    },
+    {
+      "provider": "Cloudflare",
+      "line": "four accounts, custodial, all zones.",
+      "count": 4,
+      "custodial": true
+    }
+  ],
+  "profile": {
+    "linkedin": "https://www.linkedin.com/in/matthew-keddy-0670828a/"
+  },
+  "record": [
+    {
+      "title": "CEO Letter",
+      "url": "https://kyp-model.ai"
+    },
+    {
+      "title": "The LinkedIn series"
+    },
+    {
+      "title": "NeurIPS 2025 — Schrödinger bridges"
+    },
+    {
+      "title": "Company records — through each operating company's own estate"
+    }
+  ],
+  "rulings": [
+    {
+      "date": "2026-09-13",
+      "text": "The office holds no cryptocurrency. A key is a signature, not a wallet."
+    },
+    {
+      "date": "2026-09-13",
+      "text": "The office is the owner of record for the principal's cloud tenancies; identifiers stay in the private register."
+    },
+    {
+      "date": "2026-09-13",
+      "text": "The office mailbox is not published; the form is the door."
+    },
+    {
+      "date": "2026-09-13",
+      "text": "Multi-family office model, agentic in scope; one principal on this page."
+    }
+  ],
+  "contact": {
+    "form": "https://agent-kg.ai/#contact"
+  },
+  "keys": {
+    "jwks": "https://agent-kg.ai/.well-known/jwks.json",
+    "kid": "mk-office-2026-09",
+    "alg": "EdDSA",
+    "crv": "Ed25519",
+    "ring": [
+      "mk-office-2026-09",
+      "mk-office-x402-2026-09",
+      "padel-2026-09",
+      "bev-record-2026-10",
+      "bev-x402-2026-10",
+      "hunter-2026-09",
+      "rail-agent-bev-2026-09",
+      "rail-allooloo-2026-09",
+      "rail-gsc-2026-09",
+      "rail-a2a-cosmetics-2026-09",
+      "rail-a2a-peptides-2026-09",
+      "rail-office-2026-09"
+    ],
+    "x402": {
+      "jwks": "https://agent-kg.ai/x402/jwks.json",
+      "kid": "mk-office-x402-2026-09",
+      "alg": "EdDSA"
+    },
+    "padel": {
+      "jwks": "https://agent-padel.ai/.well-known/jwks.json",
+      "kid": "padel-2026-09",
+      "alg": "EdDSA",
+      "mirrored_on": "https://familyofficeknowledgegraph.ai/.well-known/jwks.json"
+    },
+    "agent_bev": {
+      "jwks": "https://bev-registry.ai/.well-known/jwks.json",
+      "kids": [
+        "bev-record-2026-10",
+        "bev-x402-2026-10"
+      ],
+      "alg": "EdDSA",
+      "receipts_jwks": "https://bev-x402.ai/.well-known/jwks.json",
+      "holder_line": "agent-bev.ai — Agent Holdings S.A., held by Agentic KG Holdings"
+    },
+    "compound": {
+      "jwks": "https://agent-kg.ai/.well-known/jwks.json",
+      "statement_kid": "hunter-2026-09",
+      "rail_kids": [
+        "rail-agent-bev-2026-09",
+        "rail-allooloo-2026-09",
+        "rail-gsc-2026-09",
+        "rail-a2a-cosmetics-2026-09",
+        "rail-a2a-peptides-2026-09",
+        "rail-office-2026-09"
+      ],
+      "alg": "EdDSA",
+      "ledger": "https://agent-hunter.ai/ledger/events",
+      "added": "2026-09-29"
+    }
+  },
+  "a2a": {
+    "agent_card": "https://agent-kg.ai/.well-known/agent-card.json",
+    "mode": "read-only"
+  },
+  "radar": {
+    "tenancies_held": 10,
+    "last_ruling": "2026-09-13 — Multi-family office model, agentic in scope; one principal on this page.",
+    "annual": {
+      "datapoints": "10BN",
+      "datapoints_line": "10BN agentic datapoints"
+    },
+    "figures": {
+      "traffic_a_month": "100M+",
+      "ai_agent_engagement": "4.7M a day · 196,000 an hour · 3,260 a minute",
+      "traffic_by_region_a_month": "Europe 51M · Americas 27M · Asia-Pacific 15M · Rest of World 4M",
+      "countries_on_the_record": "70+",
+      "agentic_datapoints": "10BN",
+      "records_under_management": "100M",
+      "hyperscale_cloud_regions": "20+",
+      "frontier_ai_labs": "7"
+    },
+    "readiness": {
+      "date": "2026-11-19",
+      "level": 5,
+      "level_name": "Agent-Native",
+      "pass": 18,
+      "fail": 1,
+      "scanner": "isitagentready.com /api/scan"
+    }
+  },
+  "kit": [
+    "https://agent-kg.ai/.well-known/agent-card.json",
+    "https://agent-kg.ai/.well-known/agent-skills/index.json",
+    "https://agent-kg.ai/.well-known/ai-catalog.json",
+    "https://agent-kg.ai/.well-known/api-catalog",
+    "https://agent-kg.ai/.well-known/ard.json",
+    "https://agent-kg.ai/.well-known/http-message-signatures-directory",
+    "https://agent-kg.ai/.well-known/jwks.json",
+    "https://agent-kg.ai/.well-known/mcp.json",
+    "https://agent-kg.ai/.well-known/oauth-authorization-server",
+    "https://agent-kg.ai/.well-known/oauth-protected-resource",
+    "https://agent-kg.ai/.well-known/security.txt",
+    "https://agent-kg.ai/.well-known/skills.json",
+    "https://agent-kg.ai/ai-catalog.json",
+    "https://agent-kg.ai/api",
+    "https://agent-kg.ai/attest/{host}",
+    "https://agent-kg.ai/auth.md",
+    "https://agent-kg.ai/facts.json",
+    "https://agent-kg.ai/health.json",
+    "https://agent-kg.ai/licensed/statement",
+    "https://agent-kg.ai/llms.txt",
+    "https://agent-kg.ai/mcp",
+    "https://agent-kg.ai/openapi.json",
+    "https://agent-kg.ai/robots.txt",
+    "https://agent-kg.ai/sitemap.xml",
+    "https://agent-kg.ai/x402",
+    "https://agent-kg.ai/x402/jwks.json"
+  ],
+  "surface_version": "0.12.9",
+  "as_of": "2026-11-18",
+  "entity": {
+    "name": "Agentic KG Holdings",
+    "mark": "https://agent-kg.ai/akgh-icon-64.png",
+    "mark_svg": "https://agent-kg.ai/akgh-icon.svg"
+  },
+  "x402": {
+    "page": "https://agent-kg.ai/x402",
+    "route": "https://agent-kg.ai/api",
+    "price_usdc": "0.01",
+    "amount": "10000",
+    "network": "eip155:8453",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "scheme": "exact",
+    "x402Version": 2,
+    "facilitator": "https://api.cdp.coinbase.com/platform/v2/x402",
+    "receipts": "https://agent-kg.ai/x402/receipt/{nonce}",
+    "jwks": "https://agent-kg.ai/x402/jwks.json",
+    "kid": "mk-office-x402-2026-09",
+    "resource": "GET /api → { receipt, statement, data }: data = the office's current holdings summary; statement = its EdDSA JWT (kid mk-office-x402-2026-09); receipt = the signed settlement receipt"
+  },
+  "intro_of_record": {
+    "as_of": "2026-11-18",
+    "paragraphs": [
+      "The Agentic Private Office of Matthew Keddy holds a portfolio of AI-native brands in three markets: capital markets, consumer and retail AI shopping, and pharma. Together they generate 100M+ in AI agent and human traffic a month, across global markets in the Americas, the EU and UK, and Asia. That is the scale of the top finance and retail websites in North America, reached with a new generation of products.",
+      "IRL agent-ready data products: the record of real things, built for AI agents that act in real life. Not training data for the labs. Not synthetic data from a model. Real products, real issuers and real medicines, each with its source.",
+      "The record is served live on Model Context Protocol (MCP), in real time on Microsoft Azure across 20+ hyperscale cloud regions, with Amazon Web Services held as standby.",
+      "An agentic private office combines the people of the traditional office with the agentic assets of the new era — the agents, the keys, the tenancies and the record — under one signature."
+    ]
+  },
+  "tenancies_line": "Ten hyperscaler tenancies in the portfolio, under agentic management.",
+  "logo_of_record": {
+    "name": "Agentic KG Holdings rings",
+    "svg": "https://agent-kg.ai/favicon.svg",
+    "png": [
+      "https://agent-kg.ai/icon-192.png",
+      "https://agent-kg.ai/icon-512.png",
+      "https://agent-kg.ai/icon-1024.png"
+    ],
+    "as_of": "2026-09-14",
+    "retired": "MK signet (nav, favicon)"
+  },
+  "operator": "Agentic KG Holdings",
+  "record_pages": {
+    "status": "https://agent-kg.ai/status",
+    "terms": "https://agent-kg.ai/terms",
+    "privacy": "https://agent-kg.ai/privacy",
+    "security": "https://agent-kg.ai/security",
+    "no_cookies": "https://agent-kg.ai/no-cookies"
+  },
+  "page_script": {
+    "path": "https://agent-kg.ai/webmcp.js",
+    "purpose": "WebMCP registration of the contact form (tool office_contact) — the one page script, CEO ruling 2026-09-14",
+    "stores": "nothing"
+  },
+  "products": [
+    {
+      "name": "Family Office Knowledge Graph",
+      "url": "https://familyofficeknowledgegraph.ai",
+      "line": "Family Office Knowledge Graph — familyofficeknowledgegraph.ai",
+      "door": "https://mcp.fo-kg.ai/mcp",
+      "agent_card": "https://agent.fo-kg.ai/.well-known/agent-card.json",
+      "nodes": [
+        "ca-fo-kg"
+      ],
+      "facts": "https://familyofficeknowledgegraph.ai/facts.json"
+    },
+    {
+      "name": "PADEL",
+      "long_name": "Persistent Agentic Door Evidence Ledger",
+      "url": "https://agent-padel.ai",
+      "line": "PADEL — agent-padel.ai",
+      "door": null,
+      "agent_card": "https://agent-padel.ai/.well-known/agent-card.json",
+      "facts": "https://agent-padel.ai/facts.json",
+      "windows": {
+        "wefetch": "https://gsc-padel.ai"
+      },
+      "ip": "PADEL and the Caseback are office IP (CEO ruling 2026-09-17)"
+    }
+  ],
+  "laboratories": {
+    "book": "AI laboratory holdings",
+    "list": [
+      {
+        "name": "Anthropic"
+      },
+      {
+        "name": "OpenAI"
+      },
+      {
+        "name": "Google"
+      },
+      {
+        "name": "Microsoft"
+      },
+      {
+        "name": "xAI"
+      },
+      {
+        "name": "Perplexity"
+      },
+      {
+        "name": "Mistral"
+      }
+    ]
+  }
+}
